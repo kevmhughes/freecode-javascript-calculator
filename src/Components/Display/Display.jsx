@@ -8,7 +8,6 @@ const Display = () => {
 
   return (
       <div className="display-container">
-        <div className="output-value">{outputValue}</div>
         <div className="input-value">{inputValue}</div>
         <div id="display" className="display-value">{displayValue}</div>
       </div>
