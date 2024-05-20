@@ -1,0 +1,19 @@
+.display-container {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    align-content: flex-end;
+    align-items: flex-end;
+    background-color: black;
+    height: 72px;
+}
+.input-value {
+    height: 24px
+}
+.display-value {
+    height: 24px
+}
+.output-value {
+    height: 24px;
+    color: grey
+}
